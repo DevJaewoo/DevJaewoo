@@ -1,4 +1,4 @@
-### Hi there 👋
+![DevJaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJaewoo&show_icons=true)
 
 <!--
 **DevJaewoo/DevJaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

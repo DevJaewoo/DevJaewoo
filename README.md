@@ -1,16 +1,16 @@
 # 👋 Hi! I'm DevJaewoo.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJaewoo&count_bg=%2379C83D&title_bg=%23555555&icon=dynamics365.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-![giphy](https://user-images.githubusercontent.com/84849202/172382424-11d2c62b-50c9-4d41-9606-909e2ab0c4ae.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/84849202/172384097-295b4fea-192f-4665-9ad8-7e4fee31002e.gif" width="480px" height="480px"/></p>
 
 ## 🔗 Links
 [![Blog](https://img.shields.io/badge/-Tistory-F9E000?style=for-the-badge&logo=blogger&logoColor=000000)](https://DevJaewoo.tistory.com)
 [![mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=GMAIL&logoColor=FFFFFF)](mailto:DevJaewoo@gmail.com)
 
 ## 📚 Technologies
-<details>
-<summary>View</summary>
-  
+<details open>
+<summary>Close</summary>
+
 ### Languages
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)

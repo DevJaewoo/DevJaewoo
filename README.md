@@ -3,13 +3,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJaewoo&count_bg=%2379C83D&title_bg=%23555555&icon=dynamics365.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p align="center"><img src="https://user-images.githubusercontent.com/84849202/172384097-295b4fea-192f-4665-9ad8-7e4fee31002e.gif" width="370px" height="370px"/></p>
 
+## 🚀 Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJaewoo&show_icons=true&hide=contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact" />
+</p>
+
 ## 🔗 Links
 [![Blog](https://img.shields.io/badge/-Tistory-F9E000?style=for-the-badge&logo=blogger&logoColor=000000)](https://DevJaewoo.tistory.com)
 [![mail](https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=GMAIL&logoColor=FFFFFF)](mailto:DevJaewoo@gmail.com)
 
 ## 📚 Technologies
-<details>
-<summary>View</summary>
+<details open>
+<summary>Close</summary>
 
 ### Languages
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +44,3 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </details>
-
-## 🚀 Stats
-![DevJaewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJaewoo&show_icons=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

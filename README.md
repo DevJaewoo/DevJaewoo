@@ -1,7 +1,7 @@
 # 👋 Hi! I'm DevJaewoo.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevJaewoo&count_bg=%2379C83D&title_bg=%23555555&icon=dynamics365.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p align="center"><img src="https://user-images.githubusercontent.com/84849202/172384097-295b4fea-192f-4665-9ad8-7e4fee31002e.gif" width="370px" height="370px"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84849202/172384097-295b4fea-192f-4665-9ad8-7e4fee31002e.gif" width="300px" height="300px"/></p>
 
 ## 🚀 Stats
 <p align="center">

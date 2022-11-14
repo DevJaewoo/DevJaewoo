@@ -21,6 +21,7 @@
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![typescript](https://img.shields.io/badge/typscript-3178c6?&style=for-the-badge&logo=typescript&logoColor=white)
 ![java](https://img.shields.io/badge/java%20-F89820.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin%20-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
@@ -34,6 +35,10 @@
 ### Version Control
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+### DevOps
+![docker](https://img.shields.io/badge/Docker-323330?&style=for-the-badge&logo=Docker&logoColor=2496ED)
+![github-actions](https://img.shields.io/badge/Github%20Actions-2088FF?&style=for-the-badge&logo=Github%20Actions&logoColor=white)
 
 ### Tools
 ![android-studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)

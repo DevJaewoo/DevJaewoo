@@ -5,8 +5,8 @@
 
 ## 🚀 Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJaewoo&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-devjaewoo.vercel.app/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-devjaewoo.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 ## 🔗 Links
